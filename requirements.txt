@@ -1,0 +1,2 @@
+bigquery = 2.26.0
+googleads = 13.0.0

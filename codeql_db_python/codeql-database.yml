@@ -1,0 +1,10 @@
+---
+sourceLocationPrefix: "/home/user/asf/cloner/gh/clones/50_google_disapproved-ads-auditor"
+baselineLinesOfCode: 681
+unicodeNewlines: false
+columnKind: "utf32"
+primaryLanguage: "python"
+creationMetadata:
+  sha: "dcf58981f1d612dafe41a88c85cf85fb431046d7"
+  cliVersion: "2.11.1"
+  creationTime: "2022-12-13T21:59:13.610141507Z"
